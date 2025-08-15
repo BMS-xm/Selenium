@@ -5,6 +5,7 @@
 * Selenium
 * Geckodriver for Mozilla Firefox
 * Chromedriver for Google Chrome
+
 \
  Run:\
-`python script.py`\
+`python script.py`
